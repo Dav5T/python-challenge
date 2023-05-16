@@ -34,7 +34,7 @@ with open(cvspath, encoding='UTF8') as csvfile:
 
     
     print(f'Financial Anlysis')
-
+    print("-"*45)
     print(f'Total Month: {index+1}')
     print(f'Total: ${Total_Profit_Losses}')
     print(f'Average Change: ${sum(Changes.values())/index:.2f}')
