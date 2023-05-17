@@ -4,7 +4,7 @@ Make sure that the csv files are sitting in, "Resources", folder respectively.
     1. Python-Challenge\PyBank\Resources\budget_data.csv
     2. Python-Challege\PyPoll\Resources\election_data.csv
 
-When running the code, make sure your terminal open to the Resource directory
+Before running the code, make sure your terminal is rooted/opened to "Resources" directory/folder
 
 **Creating Text File:**
 Make sure that you have a folder called, Analysis. This is where you will be able to find the text files of the final analysis after you run the codes 
